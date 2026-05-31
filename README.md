@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 443.7 kB Used in GitHub's Storage 
  > 
 > 🏆 220 Contributions in the Year 2026
  > 
@@ -106,5 +106,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Selogaz/Selogaz/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2026 14:13:53 UTC
+ Last Updated on 31/05/2026 14:22:46 UTC
 <!--END_SECTION:waka-->
