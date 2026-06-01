@@ -35,69 +35,28 @@ Here are some ideas to get you started:
 
 📊 This week I spent my time on:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 443.7 kB Used in GitHub's Storage 
  > 
-> 🏆 220 Contributions in the Year 2026
+> 🏆 228 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                122 commits         ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-🌆 Daytime                178 commits         ██████████░░░░░░░░░░░░░░░   39.64 % 
-🌃 Evening                110 commits         ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-🌙 Night                  39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Tuesday                  60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Wednesday                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Thursday                 91 commits          █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-Friday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Saturday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Sunday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
-Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+HTML                     7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
+TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -107,5 +66,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Selogaz/Selogaz/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2026 14:22:46 UTC
+ Last Updated on 01/06/2026 05:23:03 UTC
 <!--END_SECTION:waka-->
