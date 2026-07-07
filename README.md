@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Мои проекты:
 
-- **[FriendlySearch](https://github.com/Selogaz/searchengine)** — простой поисковый движок на Java + Spring Boot.
+- **[AI-software-dev-skills](https://github.com/Selogaz/AI-software-dev-skills)** — Скиллы многосессионного воркфлоу для Claude Code
 - **[Подземелья Максвелла](https://github.com/Selogaz/front-maxwell)** — онлайн DnD-платформа с ИИ в роли мастера _(в разработке)_.
 - *[PomodoroMusicExtension](https://github.com/Selogaz/PomoMusicExtension)* - браузерное расширение, которое автоматически управляет воспроизведением музыки по Pomodoro-таймеру
 
