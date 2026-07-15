@@ -40,7 +40,7 @@ I'm **Alexander Terentyev**, a Frontend Developer passionate about building clea
 
 - **Telegram**: [@meaning_inside](https://t.me/meaning_inside) 
 - **Email**: terentjev.selogaz@yandex.ru 
-- **Portfolio**: [hh.ru]([https://example.com](https://tuapse.hh.ru/resume/01c2d309ff0fe3e20f0039ed1f5a695936787a?hhtmFrom=applicant_profile)
+- **Portfolio**: [hh.ru](https://tuapse.hh.ru/resume/01c2d309ff0fe3e20f0039ed1f5a695936787a?hhtmFrom=applicant_profile)
 
 ---
 
