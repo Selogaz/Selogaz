@@ -38,9 +38,9 @@ I'm **Alexander Terentyev**, a Frontend Developer passionate about building clea
 
 ## 📫 Let's Connect / Связаться со мной
 
-- **Telegram**: [@your_telegram](https://t.me/your_telegram) *(замени на свой)*
-- **Email**: your.email@example.com *(замени на свой)*
-- **Portfolio**: [your-portfolio.com](https://example.com) *(если есть)*
+- **Telegram**: [@meaning_inside](https://t.me/meaning_inside) 
+- **Email**: terentjev.selogaz@yandex.ru 
+- **Portfolio**: [hh.ru]([https://example.com](https://tuapse.hh.ru/resume/01c2d309ff0fe3e20f0039ed1f5a695936787a?hhtmFrom=applicant_profile)) 
 
 ---
 
