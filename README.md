@@ -57,6 +57,8 @@ I'm **Alexander Terentyev**, a Frontend Developer passionate about building clea
 
 📊 This week I spent my time on:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2014%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -71,6 +73,54 @@ I'm **Alexander Terentyev**, a Frontend Developer passionate about building clea
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                140 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+🌆 Daytime                257 commits         ██████████░░░░░░░░░░░░░░░   41.65 % 
+🌃 Evening                162 commits         ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+🌙 Night                  58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Tuesday                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Wednesday                74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Thursday                 108 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Friday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Saturday                 101 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Sunday                   113 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Markdown                 5 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.75 % 
+SCSS                     4 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.06 % 
+HTML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+
+🔥 Editors: 
+Claude Code              11 hrs 54 mins      ███████████████████████░░   90.33 % 
+VS Code                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+
+🐱‍💻 Projects: 
+bite-transit-static      9 hrs 21 mins       ██████████████████░░░░░░░   71.00 % 
+parsing                  1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+artefacts                1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+HRC                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Obsidian-vault-cpp       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+
+💻 Operating System: 
+Linux                    13 hrs 10 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -88,6 +138,6 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Selogaz/Selogaz/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 03:45:54 UTC
+ Last Updated on 26/07/2026 04:04:29 UTC
 <!--END_SECTION:waka-->
 </details>
