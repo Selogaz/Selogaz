@@ -100,25 +100,25 @@ Sunday                   113 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Markdown                 5 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.75 % 
-SCSS                     4 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.06 % 
-HTML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Markdown                 3 hrs 46 mins       ██████████████░░░░░░░░░░░   54.14 % 
+SCSS                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+JavaScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+HTML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Git                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 54 mins      ███████████████████████░░   90.33 % 
-VS Code                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Claude Code              5 hrs 58 mins       █████████████████████░░░░   85.77 % 
+VS Code                  59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 
 🐱‍💻 Projects: 
-bite-transit-static      9 hrs 21 mins       ██████████████████░░░░░░░   71.00 % 
-parsing                  1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-artefacts                1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-HRC                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Obsidian-vault-cpp       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+bite-transit-static      3 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.27 % 
+parsing                  1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+artefacts                1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+HRC                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Obsidian-vault-cpp       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Linux                    13 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -138,6 +138,6 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Selogaz/Selogaz/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 04:04:29 UTC
+ Last Updated on 27/07/2026 04:12:48 UTC
 <!--END_SECTION:waka-->
 </details>
