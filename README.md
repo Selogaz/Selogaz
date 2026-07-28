@@ -57,7 +57,9 @@ I'm **Alexander Terentyev**, a Frontend Developer passionate about building clea
 
 📊 This week I spent my time on:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2025%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -121,6 +123,32 @@ Obsidian-vault-cpp       2 mins              ░░░░░░░░░░░�
 Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 58 mins (100.0%)
+
+✍️ 4,293 lines written by AI, 5 lines written by hand (99.88% AI-written)
+
+🔤 78,731,928 Input Tokens, 642,721 Output Tokens
+
+💵 $447.69 Estimated AI Cost This Week
+
+🧠 27 AI Sessions, 68 AI Prompts
+
+Opus                     4,152 lines         ███████████████████████░░   90.12 % 
+Fable                    455 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.88% of written lines came from AI
+📚 Verbose Prompter — average 1,641 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -138,6 +166,6 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Selogaz/Selogaz/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 04:12:48 UTC
+ Last Updated on 28/07/2026 03:44:34 UTC
 <!--END_SECTION:waka-->
 </details>
