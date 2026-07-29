@@ -57,10 +57,6 @@ I'm **Alexander Terentyev**, a Frontend Developer passionate about building clea
 
 📊 This week I spent my time on:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2025%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%2027%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -102,51 +98,50 @@ Sunday                   113 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Markdown                 3 hrs 46 mins       ██████████████░░░░░░░░░░░   54.14 % 
-SCSS                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-JavaScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-HTML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Git                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Markdown                 6 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.55 % 
+TypeScript               6 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.34 % 
+Python                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+JavaScript               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 58 mins       █████████████████████░░░░   85.77 % 
-VS Code                  59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Claude Code              16 hrs 10 mins      ██████████████████████░░░   88.55 % 
+VS Code                  2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 
 🐱‍💻 Projects: 
-bite-transit-static      3 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.27 % 
-parsing                  1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-artefacts                1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-HRC                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Obsidian-vault-cpp       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+dnd-frontend             8 hrs 45 mins       ████████████░░░░░░░░░░░░░   47.92 % 
+artefacts                5 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+parsing                  4 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+exuberance               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+bite-transit-static      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    18 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 58 mins (100.0%)
+⏱ AI Coding Time: 18 hrs 4 mins (98.95%)
 
-✍️ 4,293 lines written by AI, 5 lines written by hand (99.88% AI-written)
+✍️ 8,123 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 78,731,928 Input Tokens, 642,721 Output Tokens
+🔤 256,220,239 Input Tokens, 1,642,108 Output Tokens
 
-💵 $447.69 Estimated AI Cost This Week
+💵 $997.34 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 68 AI Prompts
+🧠 39 AI Sessions, 104 AI Prompts
 
-Opus                     4,152 lines         ███████████████████████░░   90.12 % 
-Fable                    455 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     4,699 lines         ███████████████░░░░░░░░░░   59.55 % 
+Fable                    2,017 lines         ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+Sonnet                   1,175 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📚 Verbose Prompter — average 1,641 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,073 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -166,6 +161,6 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Selogaz/Selogaz/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 03:44:34 UTC
+ Last Updated on 29/07/2026 03:48:22 UTC
 <!--END_SECTION:waka-->
 </details>
