@@ -102,51 +102,50 @@ Sunday                   113 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               23 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   33.53 % 
-Markdown                 16 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-JavaScript               14 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Python                   8 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-CSS                      2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+TypeScript               18 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   35.21 % 
+JavaScript               11 hrs 49 mins      ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Markdown                 11 hrs 19 mins      █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+Python                   4 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+CSS                      2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🔥 Editors: 
-Claude Code              69 hrs 2 mins       ████████████████████████░   96.78 % 
-VS Code                  2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Claude Code              51 hrs 10 mins      ████████████████████████░   97.13 % 
+VS Code                  1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🐱‍💻 Projects: 
-IRT                      25 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   35.48 % 
-artefacts                22 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   31.63 % 
-dnd-frontend             21 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-bite-transit-static      1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-parsing                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+dnd-frontend             21 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   40.24 % 
+IRT                      15 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+artefacts                14 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+bite-transit-static      1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+parsing                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Linux                    71 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    52 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 70 hrs 15 mins (98.5%)
+⏱ AI Coding Time: 51 hrs 48 mins (98.31%)
 
-✍️ 69,948 lines written by AI, 428 lines written by hand (99.39% AI-written)
+✍️ 54,052 lines written by AI, 428 lines written by hand (99.21% AI-written)
 
-🔤 44,936,214 Input Tokens, 11,357,168 Output Tokens
+🔤 32,815,987 Input Tokens, 8,198,298 Output Tokens
 
-💵 $1090.89 Estimated AI Cost This Week
+💵 $689.39 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 218 AI Prompts
+🧠 23 AI Sessions, 191 AI Prompts
 
-Sonnet                   40,837 lines        ██████████████░░░░░░░░░░░   57.24 % 
-Opus                     30,343 lines        ███████████░░░░░░░░░░░░░░   42.53 % 
-Fable                    168 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Sonnet                   39,057 lines        ██████████████████░░░░░░░   70.34 % 
+Opus                     16,303 lines        ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+Fable                    168 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.39% of written lines came from AI
-📝 Concise Prompter — average 276 characters per prompt
+🤖 AI-Driven — 99.21% of written lines came from AI
+📝 Concise Prompter — average 268 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.73% of changed lines were hand-edited
+🚀 High AI Trust — 0.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -166,6 +165,6 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Selogaz/Selogaz/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 02:02:42 UTC
+ Last Updated on 17/08/2026 01:59:40 UTC
 <!--END_SECTION:waka-->
 </details>
