@@ -102,49 +102,49 @@ Sunday                   113 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               14 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   40.80 % 
-JavaScript               8 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-Markdown                 5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-CSS                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-SCSS                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+TypeScript               12 hrs 54 mins      ███████████░░░░░░░░░░░░░░   44.42 % 
+JavaScript               7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Markdown                 4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+CSS                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-Claude Code              34 hrs 25 mins      ████████████████████████░   97.61 % 
-VS Code                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Claude Code              28 hrs 23 mins      ████████████████████████░   97.75 % 
+VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🐱‍💻 Projects: 
-dnd-frontend             23 hrs 12 mins      ████████████████░░░░░░░░░   65.80 % 
-artefacts                4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-bite-transit-static      3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-vk_expert                1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-IRT                      1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+dnd-frontend             21 hrs 7 mins       ██████████████████░░░░░░░   72.74 % 
+artefacts                3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+bite-transit-static      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+vk_expert                1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Obsidian-vault-cpp       28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 💻 Operating System: 
-Linux                    35 hrs 16 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 59 mins (99.21%)
+⏱ AI Coding Time: 28 hrs 51 mins (99.34%)
 
-✍️ 30,290 lines written by AI, 3 lines written by hand (99.99% AI-written)
+✍️ 25,846 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 22,100,856 Input Tokens, 5,252,162 Output Tokens
+🔤 18,623,946 Input Tokens, 4,474,452 Output Tokens
 
-💵 $494.08 Estimated AI Cost This Week
+💵 $426.25 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 124 AI Prompts
+🧠 14 AI Sessions, 99 AI Prompts
 
-Sonnet                   18,060 lines        ██████████████░░░░░░░░░░░   57.50 % 
-Opus                     13,094 lines        ██████████░░░░░░░░░░░░░░░   41.69 % 
-Fable                    255 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Sonnet                   15,237 lines        ██████████████░░░░░░░░░░░   56.95 % 
+Opus                     11,263 lines        ███████████░░░░░░░░░░░░░░   42.10 % 
+Fable                    255 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 211 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 205 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
@@ -165,6 +165,6 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Selogaz/Selogaz/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 01:57:19 UTC
+ Last Updated on 21/08/2026 02:04:17 UTC
 <!--END_SECTION:waka-->
 </details>
