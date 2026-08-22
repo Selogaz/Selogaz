@@ -78,21 +78,21 @@ I'm **Alexander Terentyev**, a Frontend Developer passionate about building clea
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                181 commits         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-🌆 Daytime                313 commits         ██████████░░░░░░░░░░░░░░░   41.84 % 
-🌃 Evening                195 commits         ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-🌙 Night                  59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+🌞 Morning                185 commits         ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+🌆 Daytime                316 commits         ██████████░░░░░░░░░░░░░░░   41.85 % 
+🌃 Evening                195 commits         ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+🌙 Night                  59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Tuesday                  136 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Wednesday                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Thursday                 130 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Friday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Saturday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   113 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Tuesday                  136 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Wednesday                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Thursday                 130 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Friday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Saturday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Sunday                   113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 ```
 
 
@@ -102,50 +102,50 @@ Sunday                   113 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               12 hrs 54 mins      ███████████░░░░░░░░░░░░░░   44.42 % 
-JavaScript               7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Markdown                 4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-CSS                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+TypeScript               7 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   41.77 % 
+JavaScript               4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+Markdown                 2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+CSS                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 23 mins      ████████████████████████░   97.75 % 
-VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Claude Code              17 hrs 10 mins      ████████████████████████░   97.32 % 
+VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🐱‍💻 Projects: 
-dnd-frontend             21 hrs 7 mins       ██████████████████░░░░░░░   72.74 % 
-artefacts                3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-bite-transit-static      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-vk_expert                1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Obsidian-vault-cpp       28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+dnd-frontend             12 hrs 48 mins      ██████████████████░░░░░░░   72.55 % 
+bite-transit-static      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+vk_expert                1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+artefacts                53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+parsing                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Linux                    29 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    17 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 51 mins (99.34%)
+⏱ AI Coding Time: 17 hrs 27 mins (98.93%)
 
-✍️ 25,846 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 17,280 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 18,623,946 Input Tokens, 4,474,452 Output Tokens
+🔤 12,739,162 Input Tokens, 2,984,319 Output Tokens
 
-💵 $426.25 Estimated AI Cost This Week
+💵 $301.19 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 99 AI Prompts
+🧠 10 AI Sessions, 72 AI Prompts
 
-Sonnet                   15,237 lines        ██████████████░░░░░░░░░░░   56.95 % 
-Opus                     11,263 lines        ███████████░░░░░░░░░░░░░░   42.10 % 
-Fable                    255 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Opus                     9,061 lines         █████████████░░░░░░░░░░░░   50.81 % 
+Sonnet                   8,590 lines         ████████████░░░░░░░░░░░░░   48.17 % 
+Fable                    181 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 205 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 211 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -165,6 +165,6 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Selogaz/Selogaz/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 02:04:17 UTC
+ Last Updated on 22/08/2026 01:56:11 UTC
 <!--END_SECTION:waka-->
 </details>
