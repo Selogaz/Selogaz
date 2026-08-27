@@ -102,49 +102,49 @@ Sunday                   114 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               5 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.44 % 
-JavaScript               4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
-Markdown                 2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-CSS                      1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+TypeScript               3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.67 % 
+JavaScript               2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+Markdown                 2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+CSS                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 45 mins      ███████████████████████░░   93.00 % 
-VS Code                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Claude Code              8 hrs 24 mins       ██████████████████████░░░   89.27 % 
+VS Code                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
 
 🐱‍💻 Projects: 
-dnd-frontend             11 hrs 51 mins      ██████████████████████░░░   86.44 % 
-artefacts                53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Obsidian-vault-cpp       39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-parsing                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+dnd-frontend             7 hrs               ███████████████████░░░░░░   74.31 % 
+Obsidian-vault-cpp       1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+artefacts                44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+parsing                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 💻 Operating System: 
-Linux                    13 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 2 mins (95.14%)
+⏱ AI Coding Time: 8 hrs 53 mins (94.45%)
 
-✍️ 4,470 lines written by AI, 7 lines written by hand (99.84% AI-written)
+✍️ 6,521 lines written by AI, 29 lines written by hand (99.56% AI-written)
 
-🔤 8,792,540 Input Tokens, 1,684,290 Output Tokens
+🔤 8,101,922 Input Tokens, 1,834,558 Output Tokens
 
-💵 $138.63 Estimated AI Cost This Week
+💵 $151.23 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 64 AI Prompts
+🧠 13 AI Sessions, 74 AI Prompts
 
-Sonnet                   4,249 lines         ██████████████████████░░░   89.94 % 
-Opus                     427 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Fable                    48 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Sonnet                   5,684 lines         █████████████████████░░░░   84.96 % 
+Opus                     914 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Fable                    92 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.84% of written lines came from AI
-📝 Concise Prompter — average 390 characters per prompt
+🤖 AI-Driven — 99.56% of written lines came from AI
+📝 Concise Prompter — average 430 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.95% of changed lines were hand-edited
+🚀 High AI Trust — 1.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -164,6 +164,6 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Selogaz/Selogaz/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 02:06:53 UTC
+ Last Updated on 27/08/2026 10:03:23 UTC
 <!--END_SECTION:waka-->
 </details>
