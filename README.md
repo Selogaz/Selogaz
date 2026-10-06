@@ -31,7 +31,7 @@ I'm **Alexander Terentyev**, a Frontend Developer passionate about building clea
 ## 🚀 Current Focus / Текущие проекты
 
 - 🤖 **[AI-software-dev-skills](https://github.com/Selogaz/AI-software-dev-skills)**: Multi-session workflow skills for Claude Code to enforce strict Definition of Done and independent audits.
-- 🎲 **Maxwell's Dungeons (Подземелья Максвелла)**: An online AI-powered DnD platform *(in development)*.
+- 🎲 **Maxwell's Dungeons[https://github.com/Selogaz/maxwell-case] (Подземелья Максвелла)**: An online AI-powered DnD platform *(in development)*.
 - 🚚 **[Bite Transit](https://github.com/Selogaz/bite-transit-static)**: A responsive static website for a logistics company.
 
 ---
