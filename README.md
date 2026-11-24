@@ -1,102 +1,47 @@
-<!--
-**Selogaz/Selogaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alexander Terentyev
 
-Here are some ideas to get you started:
+**AI / LLM Engineer · Python & TypeScript · Remote (Armenia)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Привет! / Hello! 👋
+I build LLM-powered products for small businesses that don't trust the model blindly: structured outputs, checks in code, tests and human-in-the-loop. My background is about three years of Java backend work and frontend on Next.js.
 
-I'm **Alexander Terentyev**, a Frontend Developer passionate about building clean, efficient web applications and optimizing AI-assisted development workflows.  
-Я **Александр Терентьев**, frontend-разработчик, увлеченный созданием качественных веб-приложений и оптимизацией рабочих процессов с помощью ИИ.
+## Featured projects
 
----
+- **[foodscout](https://github.com/Selogaz/foodscout)** — finds food suppliers for a buyer: Yandex Search plus LLM extraction by a Zod schema, with a quote for every value that code verifies against the page. Site text is treated as data, so prompt injection is neutralized, and pipeline steps stream to the UI.
+  Stack: TypeScript, Next.js, Zod, Yandex Search API · [Live demo](https://foodscout-nine.vercel.app)
+- **[order-bot-case](https://github.com/Selogaz/order-bot-case)** — a production order-taking Instagram bot for a pastry shop, taken over from a previous contractor and brought to launch. Deterministic checks on every model reply, human-in-the-loop handoff to the owner, 780 offline tests (client code is private; the repo holds the case study and two rewritten modules).
+  Stack: Python, FastAPI, asyncio, OpenAI API, pytest
+- **[maxwell-case](https://github.com/Selogaz/maxwell-case)** — frontend of an online D&D platform with an AI game master. Typed data layer and strict TypeScript (source is private; the repo describes the work).
+  Stack: Next.js, React, TypeScript, Tailwind CSS, Docker, GitHub Actions
+- **[AI-software-dev-skills](https://github.com/Selogaz/AI-software-dev-skills)** — Claude Code skills for spec-driven multi-session development: task decomposition, independent read-only review, docs-to-code sync.
+  Stack: Claude Code skills
+- **[tgfolders](https://github.com/Selogaz/tgfolders)** — a Python CLI that sorts Telegram chats into folders by keyword rules, with a dry-run plan before anything changes.
+  Stack: Python, Telethon
 
-## 🛠 Tech Stack / Стек технологий
+## Stack
 
-- **Frontend**: React, Next.js, TypeScript, Vue.js, TailwindCSS, SCSS, HTML5
-- **Tools & Workflow**: Claude Code, VS Code, Git, Webpack, Gulp
-- **OS & Environment**: Linux (Manjaro), Zsh, GNOME
-- **Currently Learning / Изучаю**: Java, AI Agent integrations, Knowledge Management (Obsidian, Zotero)
+- **LLM:** OpenAI API, Claude API, tool calling, structured outputs, evals
+- **Backend:** Python, FastAPI, asyncio, pytest, Java/Spring Boot, PostgreSQL
+- **Frontend:** TypeScript, Next.js, React, Tailwind
+- **Infra:** Docker, GitHub Actions, Linux, Vercel
+- **Daily:** Claude Code
 
----
+## Contact
 
-## 🚀 Current Focus / Текущие проекты
-
-- 🤖 **[AI-software-dev-skills](https://github.com/Selogaz/AI-software-dev-skills)**: Multi-session workflow skills for Claude Code to enforce strict Definition of Done and independent audits.
-- 🎲 **[Maxwell's Dungeons](https://github.com/Selogaz/maxwell-case) (Подземелья Максвелла)**: An online AI-powered DnD platform *(in development)*.
-- 🚚 **[Bite Transit](https://github.com/Selogaz/bite-transit-static)**: A responsive static website for a logistics company.
-
----
-
-## 📫 Let's Connect / Связаться со мной
-
-- **Telegram**: [@meaning_inside](https://t.me/meaning_inside) 
-- **Email**: terentjev.selogaz@yandex.ru 
-- **Portfolio**: [hh.ru](https://tuapse.hh.ru/resume/01c2d309ff0fe3e20f0039ed1f5a695936787a?hhtmFrom=applicant_profile)
-
----
+- Telegram: [@meaning_inside](https://t.me/meaning_inside)
+- Email: terentjev.selogaz@yandex.ru
+- Resume: [hh.ru](https://hh.ru/resume/01c2d309ff0fe3e20f0039ed1f5a695936787a)
 
 <details>
-<summary>📈 <b>GitHub Stats & Weekly Activity / Статистика и активность</b></summary>
+<summary><b>GitHub stats and weekly activity</b></summary>
 <br>
 
 ![GitHub Stats](./profile/stats.svg)
 ![Most Used Languages](./profile/top-langs.svg)
 
-<p align="left">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Selogaz&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-📊 This week I spent my time on:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 930.5 kB Used in GitHub's Storage 
- > 
-> 🏆 662 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
+📊 **This Week I Spent My Time On**
 
 ```text
-🌞 Morning                287 commits         ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-🌆 Daytime                474 commits         ███████████░░░░░░░░░░░░░░   45.19 % 
-🌃 Evening                229 commits         █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   150 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Tuesday                  202 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Wednesday                169 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Thursday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Friday                   138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Saturday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
 💬 Programming Languages: 
 JSON                     6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
 Python                   5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
@@ -116,36 +61,7 @@ Obsidian-vault-cpp       9 hrs 3 mins        ██████████░�
 tonsor-static            3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
 daylog                   3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
 shoptet                  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-candidate-B              1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-
-💻 Operating System: 
-Linux                    22 hrs 36 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 21 hrs 56 mins (97.0%)
-
-✍️ 3,870 lines written by AI, 9 lines written by hand (99.77% AI-written)
-
-🔤 12,636,191 Input Tokens, 861,358 Output Tokens
-
-💵 $103.99 Estimated AI Cost This Week
-
-🧠 54 AI Sessions, 189 AI Prompts
-
-Sonnet                   2,086 lines         █████████████░░░░░░░░░░░░   53.32 % 
-Opus                     1,279 lines         ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Fable                    336 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-GPT                      211 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.77% of written lines came from AI
-📚 Verbose Prompter — average 1,782 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.26% of changed lines were hand-edited
+candidate-B              1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
 ```
 
 **I Mostly Code in TypeScript** 
@@ -158,13 +74,5 @@ SCSS                     2 repos             ██░░░░░░░░░�
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Selogaz/Selogaz/main/assets/bar_graph.png)
-
-
- Last Updated on 24/11/2026 12:41:34 UTC
 <!--END_SECTION:waka-->
 </details>
