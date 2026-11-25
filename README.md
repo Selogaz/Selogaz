@@ -39,40 +39,46 @@ I build LLM-powered products for small businesses that don't trust the model bli
 ![Most Used Languages](./profile/top-langs.svg)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On**
+![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2044%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JSON                     6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-Python                   5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Other                    4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Markdown                 3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-HTML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+JSON                     6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+Other                    6 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Python                   4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Markdown                 2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+TypeScript               2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 35 mins      █████████████████░░░░░░░░   68.95 % 
-Codex Vscode             4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-VS Code                  2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Codex CLI                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Codex Exec               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Claude Code              17 hrs 3 mins       █████████████████░░░░░░░░   68.35 % 
+Codex Vscode             4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+VS Code                  2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Codex CLI                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Codex Exec               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-Obsidian-vault-cpp       9 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.04 % 
-tonsor-static            3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-daylog                   3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-shoptet                  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-candidate-B              1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Obsidian-vault-cpp       10 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   40.89 % 
+AI-инженер               3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+daylog                   3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+tonsor-static            3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+shoptet                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
+
+
+
+ Last Updated on 25/11/2026 08:55:08 UTC
 <!--END_SECTION:waka-->
 </details>
