@@ -39,31 +39,30 @@ I build LLM-powered products for small businesses that don't trust the model bli
 ![Most Used Languages](./profile/top-langs.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%203%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   31.69 % 
-Other                    8 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-JSON                     7 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Python                   6 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-TypeScript               2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Markdown                 13 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   35.89 % 
+JSON                     7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Other                    7 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Python                   5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+TypeScript               2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 🔥 Editors: 
-Claude Code              30 hrs              ███████████████████░░░░░░   76.97 % 
-VS Code                  3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Codex Vscode             3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Codex CLI                1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Codex Exec               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Claude Code              31 hrs 24 mins      █████████████████████░░░░   82.34 % 
+Codex Vscode             3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+VS Code                  1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Codex CLI                1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🐱‍💻 Projects: 
-Obsidian-vault-cpp       17 hrs 24 mins      ███████████░░░░░░░░░░░░░░   44.66 % 
-daylog                   5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-ai-2026-13               5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-AI-инженер               4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-artefacts                1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Obsidian-vault-cpp       15 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   41.91 % 
+ai-2026-13               6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+daylog                   5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+AI-инженер               4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+artefacts                1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,6 +78,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2026 08:51:20 UTC
+ Last Updated on 28/11/2026 08:11:14 UTC
 <!--END_SECTION:waka-->
 </details>
